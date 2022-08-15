@@ -1,0 +1,10 @@
+*.txt
+*.csv
+*.fastq
+*.fastq.gz
+dist/
+.DS_Store
+.venv
+.pytest_cache/
+__pycache__/
+.idea
